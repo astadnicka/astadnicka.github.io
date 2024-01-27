@@ -1,0 +1,8 @@
+.zdj img {
+    display: flex;
+    border: 10px dotted black;
+}
+
+table {
+    background-color: bisque;
+}
